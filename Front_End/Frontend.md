@@ -6,5 +6,5 @@
 - **State Management**: React useState, useEffect
 - **HTTP Client**: Axios or Fetch API
 - **Routing**: React Router
-- **Styling**: CSS / CSS-in-JS (optional)
+- **Styling**: CSS 
 
