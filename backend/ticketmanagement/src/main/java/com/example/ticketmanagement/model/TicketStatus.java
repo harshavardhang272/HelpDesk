@@ -1,5 +1,5 @@
 package com.example.ticketmanagement.model;
 
-public class TicketStatus {
-    
+public enum TicketStatus {
+    OPEN, IN_PROGRESS, CLOSED
 }
