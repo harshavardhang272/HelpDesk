@@ -1,7 +1,5 @@
 # HelpDesk
 
-## Overview
-
 This Ticket Management System is a full-stack application designed to manage and track tickets efficiently. It allows users to create, read, update, and delete tickets, providing a streamlined solution for handling various issues or tasks within an organization.
 
 ## Table of Contents
